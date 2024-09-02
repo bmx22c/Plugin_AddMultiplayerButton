@@ -1,0 +1,10 @@
+[meta]
+name = "Add Multiplayer Button"
+author = "bmx22c"
+category = "Cosmetic"
+
+version = "1.0"
+
+[script]
+imports = [ "Time.as", "Formatting.as" ]
+dependencies = [ "MLHook" ]
